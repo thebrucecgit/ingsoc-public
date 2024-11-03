@@ -1,0 +1,64 @@
+/* CSS Document */
+/* TheHotline.org and LoveIsRespect.org chat tool. */
+/* project lead: Marty Hand | National Domestic Violence Hotline | TheHotline.org */
+/* author: Chad Cleveland | National Domestic Violence Hotline | TheHotline.org  */
+/* copyright: © Copyright 2024 National Domestic Violence Hotline  */
+
+
+/*
+    Last Modified: '2024-05-28 08:42';
+*/ 
+
+/* FONT */
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('https://lib.thehotline.us/font/gotham/gotham-300.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url('https://lib.thehotline.us/font/gotham/gotham-400.woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url('https://lib.thehotline.us/font/gotham/gotham-800.woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* GLOBAL VARIABLES */
+
+:root {
+    --font-main: Gotham, Verdana, Helvetica, sans-serif;
+    --thl-purple: #592c5f;
+    --thl-purple-2: #9e3a8a;
+    --thl-black: #333132;
+    --thl-white: #fff;
+    --thl-red: #c43546;
+    --thl-chat-purple: #9e3a8acc;
+    --thl-chat-grey: #a4a0a2;
+}
+
+
+div[class*=cx-messenger] button {
+    opacity: .2;
+}
+
+div[class*=cx-messenger] button[thl-status=active] {
+    opacity: 1;
+}
+
+
+/* hides */ 
+
+[thl-status=expanded] .hideExpanded,
+[thl-status=collapsed] .hideCollapsed,
+[thl-status="hidden"] {
+    display: none !important;
+}
+
+

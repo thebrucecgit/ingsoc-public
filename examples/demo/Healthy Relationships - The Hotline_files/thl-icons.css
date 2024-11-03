@@ -1,0 +1,343 @@
+@charset "utf-8";
+/* CSS Document */
+/* TheHotline.us icons.  */
+/*  project contact: Marty Hand | National Domestic Violence Hotline | TheHotline.org  */
+/*  author : Chad Cleveland | National Domestic Violence Hotline | TheHotline.org  */
+/*  copyright : © Copyright 2023 National Domestic Violence Hotline  */
+/*  license : A royalty-free, non-exclusive, and irrevocable license to modify, reproduce, publish, or otherwise use, and authorize others to use (in whole or in part, including in connection with derivative works) is hereby granted to Chad Cleveland. */
+
+/*
+    Last modified: '2024-07-10 16:03';
+*/
+
+:root {
+    --purple-lt: #9e3a8a;
+    --purple-dk: #592c5f;
+}
+
+.thl-icon[thl-icon] {
+    display: block;
+    width: calc(100% - 4px);
+    height: calc(100% - 4px);
+    background-size: 300%;
+    background-repeat: no-repeat;
+    margin: 2px;
+    background-position-x: center;
+    border-color: var(--purple-lt);
+}
+
+/* ------------- */
+/* COLOR */
+/* ------------- */
+
+.thl-icon[thl-icon-color="light-purple"] {
+    background-position-x: center !important;
+    border-color: var(--purple-lt) !important;
+}
+.thl-icon[thl-icon-color="dark-purple"],
+.thl-icon[thl-icon-color="red"] {
+    background-position-x: left !important;
+    border-color: var(--purple-dk) !important;
+}
+.thl-icon[thl-icon-color="black"] {
+    background-position-x: right !important;
+    border-color: #f4f4f4 !important;
+    filter: invert(0.9) !important;
+}
+.thl-icon[thl-icon-color="dark-grey"] {
+    background-position-x: right !important;
+    border-color: #f4f4f4 !important;
+    filter: brightness(0.3) !important;
+}
+.thl-icon[thl-icon-color="grey"] {
+    background-position-x: right !important;
+    border-color: #f4f4f4 !important;
+    filter: brightness(0.6) !important;
+}
+.thl-icon[thl-icon-color="light-grey"] {
+    background-position-x: right !important;
+    border-color: #f4f4f4 !important;
+    filter: brightness(0.8) !important;
+}
+.thl-icon[thl-icon-color="white"] {
+    background-position-x: right !important;
+    border-color: #f4f4f4 !important;
+}
+
+/* ------------- */
+/* ICONS */
+/* ------------- */
+
+.thl-icon[thl-icon="calendar"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-9-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="reload"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-2-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="fullscreen-enter"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-2-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="fullscreen-exit"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-2-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="x"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-6-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="x-bg"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-6-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="x-bg-inv"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-6-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="big-check"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-5-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="big-check-bg"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-5-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="check"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-8-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="check-bg"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-8-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="check-bg-inv"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-8-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="expand"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-7-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="collapse"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-7-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="arrow"],
+.thl-icon[thl-icon="right-arrow"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-7-120.png?v=1012a") !important;
+    background-position-y: top !important;
+    transform: rotate(90deg) !important;
+}
+.thl-icon[thl-icon="left-arrow"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-7-120.png?v=1012a") !important;
+    background-position-y: top !important;
+    transform: rotate(270deg) !important;
+}
+.thl-icon[thl-icon="up-arrow"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-7-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="down-arrow"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-7-120.png?v=1012a") !important;
+    background-position-y: top !important;
+    transform: rotate(180deg) !important;
+}
+.thl-icon[thl-icon="triangle"],
+.thl-icon[thl-icon="right-triangle"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-3-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.thl-icon[thl-icon="left-triangle"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-3-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    transform: rotate(180deg) !important;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.thl-icon[thl-icon="up-triangle"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-3-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    transform: rotate(-90deg) !important;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.thl-icon[thl-icon="down-triangle"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-3-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    transform: rotate(90deg) !important;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.thl-icon[thl-icon="info"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-radius: 100px !important;
+}
+
+.thl-icon[thl-icon="hint"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-4-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+.thl-icon[thl-icon="ellipsis"],
+.thl-icon[thl-icon="3-dots-horizontal"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-4-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+.thl-icon[thl-icon="options"],
+.thl-icon[thl-icon="3-dots"],
+.thl-icon[thl-icon="3-dots-vertical"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-4-120.png?v=1012a") !important;
+    background-position-y: center !important;
+    transform: rotate(90deg) !important;
+}
+.thl-icon[thl-icon="link"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-3-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="phone"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-11-480.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="phone-alt"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-11-480.png?v=1012a") !important;
+    background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="hangup"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-11-480.png?v=1012a") !important;
+  background-position-y: center !important;
+}
+.thl-icon[thl-icon="mic"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-12-480.png?v=1012a") !important;
+  background-position-y: center !important;
+}
+.thl-icon[thl-icon="mic-alt"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-13-480.png?v=1012a") !important;
+  background-position-y: center !important;
+}
+.thl-icon[thl-icon="speaker"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-12-480.png?v=1012a") !important;
+  background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="speaker-alt"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-13-480.png?v=1012a") !important;
+  background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="bluetooth"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-12-480.png?v=1012a") !important;
+  background-size: 370%;
+  background-position-y: top !important;
+}
+.thl-icon[thl-icon="bluetooth-on"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-12-480.png?v=1012a") !important;
+  background-position-y: top !important;
+}
+.thl-icon[thl-icon="bluetooth-alt"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-13-480.png?v=1012a") !important;
+  background-position-y: top !important;
+}
+.thl-icon[thl-icon="maximize"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-14-480.png?v=1012a") !important;
+  background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="minimize"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-14-480.png?v=1012a") !important;
+  background-position-y: top !important;
+}
+.thl-icon[thl-icon="caret-up"], .thl-icon[thl-icon="caret"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-14-480.png?v=1012a") !important;
+  background-position-y: center !important;
+}
+.thl-icon[thl-icon="caret-down"] {
+  background-image: url("https://lib.thehotline.us/icons/thl-icons-14-480.png?v=1012a") !important;
+  background-position-y: center !important;
+  transform: rotate(180deg);
+}
+.thl-icon[thl-icon="flag"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-5-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    width: calc(100% - 6px);
+    height: calc(100% - 6px);
+    margin: 4px 0 0 3px;
+}
+.thl-icon[thl-icon="edit"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-4-120.png?v=1012a") !important;
+    background-position-y: top !important;
+    width: calc(100% - 6px);
+    height: calc(100% - 6px);
+    margin: 3px 0 0 3px;
+}
+.thl-icon[thl-icon="copy"],
+.thl-icon[thl-icon="copy-text"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-9-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+    width: calc(100% - 6px);
+    height: calc(100% - 6px);
+    margin: 3px 0 0 3px;
+}
+.thl-icon[thl-icon="copy-link"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-9-120.png?v=1012a") !important;
+    background-position-y: top !important;
+    width: calc(100% - 6px);
+    height: calc(100% - 6px);
+    margin: 3px 0 0 3px;
+}
+.thl-icon[thl-icon="cloud"],
+.thl-icon[thl-icon="saved"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-10-120.png?v=1012a") !important;
+    background-position-y: top !important;
+}
+.thl-icon[thl-icon="upload"],
+.thl-icon[thl-icon="saving"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-10-120.png?v=1012a") !important;
+    background-position-y: bottom !important;
+}
+.thl-icon[thl-icon="download"],
+.thl-icon[thl-icon="downloading"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-10-120.png?v=1012a") !important;
+    background-position-y: center !important;
+}
+
+.thl-icon[thl-icon="checkbox-empty"],
+.thl-icon[thl-icon="checkbox"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position: right !important;
+}
+.thl-icon[thl-icon="checkbox-checked"],
+.thl-icon[thl-icon="checked"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position: top right !important;
+}
+.thl-icon[thl-icon="thl-logo"],
+.thl-icon[thl-icon="thl-logo-white"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position: top left !important;
+}
+.thl-icon[thl-icon="thl-logo-dark"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position: top !important;
+}
+.thl-icon[thl-icon="thl-logo-small"],
+.thl-icon[thl-icon="thl-logo-small-white"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position: center left !important;
+}
+.thl-icon[thl-icon="thl-logo-small-dark"] {
+    background-image: url("https://lib.thehotline.us/icons/thl-icons-1-120.png?v=1012a") !important;
+    background-position: center !important;
+}

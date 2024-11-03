@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Minipax-Bold';
+    src: url('./media/fonts/Minipax-Bold.woff2') format('woff2'), /* Modern browsers */
+         url('./media/fonts/Minipax-Bold.woff') format('woff'),   /* Older browsers */
+         url('./media/fonts/Minipax-Bold.ttf') format('truetype'); /* Fallback */
+}
+
+body * {
+    font-family: 'Minipax-Bold'; 
+    font-size: 18px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,4426 @@
+7,9c7,9
+<       <div>
+<        <header>
+<         <nav>
+---
+>       <header>
+>        <nav>
+>         <div>
+12,13c12,17
+<            <div>
+<             <a>
+---
+>            <a>
+>             <span>
+>              <svg>
+>               <path>
+>               </path>
+>              </svg>
+15,21c19
+<               <svg>
+<                <path>
+<                </path>
+<               </svg>
+<               <span>
+<                BBC Homepage
+<               </span>
+---
+>               BBC Homepage
+22a21,32
+>             </span>
+>            </a>
+>           </div>
+>           <ul>
+>            <li>
+>             <a>
+>              Skip to content
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Accessibility Help
+23a34,65
+>            </li>
+>           </ul>
+>           <div>
+>            <ul>
+>             <li>
+>              <a>
+>               <span>
+>                <svg>
+>                 <path>
+>                 </path>
+>                </svg>
+>               </span>
+>               <span>
+>                For you
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <svg>
+>                 <path>
+>                 </path>
+>                </svg>
+>                <span>
+>                 Notifications
+>                </span>
+>               </span>
+>              </a>
+>             </li>
+>            </ul>
+>            <div>
+28c70,188
+<               Skip to content
+---
+>               <span>
+>                Home
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+>                </span>
+>                News
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+>                </span>
+>                Sport
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+>                </span>
+>                Weather
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <g>
+>                    <path>
+>                    </path>
+>                    <path>
+>                    </path>
+>                   </g>
+>                  </g>
+>                 </svg>
+>                </span>
+>                iPlayer
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+>                </span>
+>                Sounds
+>               </span>
+>              </a>
+>             </li>
+>             <li>
+>              <a>
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+>                </span>
+>                Bitesize
+>               </span>
+33c193,205
+<               Accessibility Help
+---
+>               <span>
+>                <span>
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+>                 <span>
+>                  More menu
+>                 </span>
+>                </span>
+>               </span>
+36a209,244
+>           </div>
+>           <div>
+>            <div>
+>             <a>
+>              <span>
+>               <span>
+>                <svg>
+>                 <path>
+>                 </path>
+>                </svg>
+>                <span>
+>                 More menu
+>                </span>
+>               </span>
+>              </span>
+>             </a>
+>            </div>
+>            <div>
+>             <a>
+>              <span>
+>               <svg>
+>                <path>
+>                </path>
+>               </svg>
+>              </span>
+>              <span>
+>               Search BBC
+>              </span>
+>             </a>
+>            </div>
+>           </div>
+>          </div>
+>         </div>
+>         <div>
+>          <div>
+>           <div>
+40a249,253
+>                Home
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+43,44c256,263
+<                  <path>
+<                  </path>
+---
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+46,48d264
+<                 <span>
+<                  For you
+<                 </span>
+49a266
+>                News
+56,57c273,280
+<                  <path>
+<                  </path>
+---
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+59,61d281
+<                 <span>
+<                  Notifications
+<                 </span>
+62a283
+>                Sport
+65,68d285
+<             </ul>
+<             <div>
+<             </div>
+<             <ul>
+72c289,298
+<                 Home
+---
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+73a300
+>                Weather
+79,80c306,309
+<                 <span>
+<                  <svg>
+---
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+86,87d314
+<                    <path>
+<                    </path>
+89,91c316,317
+<                  </svg>
+<                 </span>
+<                 News
+---
+>                  </g>
+>                 </svg>
+92a319
+>                iPlayer
+98,110c325,334
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Sport
+---
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+111a336
+>                Sounds
+117,150c342,351
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Weather
+<                </span>
+<               </a>
+<              </li>
+<              <li>
+<               <a>
+<                <span>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <g>
+<                     <path>
+<                     </path>
+<                     <path>
+<                     </path>
+<                    </g>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 iPlayer
+---
+>                 <svg>
+>                  <g>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                   <path>
+>                   </path>
+>                  </g>
+>                 </svg>
+151a353
+>                Bitesize
+156,170c358
+<                <span>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Sounds
+<                </span>
+---
+>                CBBC
+175,189c363
+<                <span>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Bitesize
+<                </span>
+---
+>                CBeebies
+194,206c368
+<                <span>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                  <span>
+<                   More menu
+<                  </span>
+<                 </span>
+<                </span>
+---
+>                Food
+210,226d371
+<            </div>
+<            <div>
+<             <div>
+<              <a>
+<               <span>
+<                <span>
+<                 <svg>
+<                  <path>
+<                  </path>
+<                 </svg>
+<                 <span>
+<                  More menu
+<                 </span>
+<                </span>
+<               </span>
+<              </a>
+<             </div>
+228c373
+<              <a>
+---
+>              <button>
+233a379,381
+>                <span>
+>                 Close menu
+>                </span>
+235,238c383
+<               <span>
+<                Search BBC
+<               </span>
+<              </a>
+---
+>              </button>
+242a388,408
+>         </div>
+>        </nav>
+>        <div>
+>         <div>
+>          <div>
+>           <div>
+>            <div>
+>             <a>
+>              <svg>
+>               <path>
+>               </path>
+>              </svg>
+>              <span>
+>               BBC News
+>              </span>
+>             </a>
+>            </div>
+>           </div>
+>          </div>
+>         </div>
+>         <nav>
+247,372d412
+<              <ul>
+<               <li>
+<                <a>
+<                 Home
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 News
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Sport
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Weather
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <g>
+<                     <path>
+<                     </path>
+<                     <path>
+<                     </path>
+<                    </g>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 iPlayer
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Sounds
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <g>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                    <path>
+<                    </path>
+<                   </g>
+<                  </svg>
+<                 </span>
+<                 Bitesize
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 CBBC
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 CBeebies
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Food
+<                </a>
+<               </li>
+<              </ul>
+374c414
+<               <button>
+---
+>               <a>
+380,382d419
+<                 <span>
+<                  Close menu
+<                 </span>
+384c421,422
+<               </button>
+---
+>                Menu
+>               </a>
+386,412d423
+<             </div>
+<            </div>
+<           </div>
+<          </div>
+<         </nav>
+<         <div>
+<          <div>
+<           <div>
+<            <div>
+<             <div>
+<              <a>
+<               <svg>
+<                <path>
+<                </path>
+<               </svg>
+<               <span>
+<                BBC News
+<               </span>
+<              </a>
+<             </div>
+<            </div>
+<           </div>
+<          </div>
+<          <nav>
+<           <div>
+<            <div>
+<             <div>
+414,509c425,507
+<               <div>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <path>
+<                   </path>
+<                  </svg>
+<                 </span>
+<                 Menu
+<                </a>
+<               </div>
+<               <div>
+<                <ul>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Home
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    InDepth
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Israel-Gaza war
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    US election
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Cost of Living
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    War in Ukraine
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Climate
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    UK
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    World
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Business
+<                   </span>
+<                  </a>
+<                 </li>
+<                </ul>
+<               </div>
+<               <div>
+<                <a>
+<                 <span>
+<                  <svg>
+<                   <path>
+<                   </path>
+<                  </svg>
+<                 </span>
+<                 More
+<                </a>
+<               </div>
+---
+>               <ul>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Home
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   InDepth
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Israel-Gaza war
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   US election
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Cost of Living
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   War in Ukraine
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Climate
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   UK
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   World
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Business
+>                  </span>
+>                 </a>
+>                </li>
+>               </ul>
+>              </div>
+>              <div>
+>               <a>
+>                <span>
+>                 <svg>
+>                  <path>
+>                  </path>
+>                 </svg>
+>                </span>
+>                More
+>               </a>
+512a511,512
+>           </div>
+>           <div>
+516,589c516,587
+<               <div>
+<                <ul>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Politics
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Culture
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Tech
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Science
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Health
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Family &amp; Education
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    In Pictures
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Newsbeat
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    BBC Verify
+<                   </span>
+<                  </a>
+<                 </li>
+<                 <li>
+<                  <a>
+<                   <span>
+<                    Disability
+<                   </span>
+<                  </a>
+<                 </li>
+<                </ul>
+<               </div>
+---
+>               <ul>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Politics
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Culture
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Tech
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Science
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Health
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Family &amp; Education
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   In Pictures
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Newsbeat
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   BBC Verify
+>                  </span>
+>                 </a>
+>                </li>
+>                <li>
+>                 <a>
+>                  <span>
+>                   Disability
+>                  </span>
+>                 </a>
+>                </li>
+>               </ul>
+593a592,593
+>          </div>
+>          <div>
+596,620c596,618
+<             <div>
+<              <ul>
+<               <li>
+<                <a>
+<                 <span>
+<                  England
+<                 </span>
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  Local News
+<                 </span>
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 <span>
+<                  Tyne
+<                 </span>
+<                </a>
+<               </li>
+<              </ul>
+<             </div>
+---
+>             <ul>
+>              <li>
+>               <a>
+>                <span>
+>                 England
+>                </span>
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                <span>
+>                 Local News
+>                </span>
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                <span>
+>                 Tyne
+>                </span>
+>               </a>
+>              </li>
+>             </ul>
+623,626c621,626
+<          </nav>
+<         </div>
+<        </header>
+<       </div>
+---
+>          </div>
+>         </nav>
+>        </div>
+>       </header>
+>      </div>
+>      <div>
+629,633c629,640
+<         <div>
+<          <main>
+<           <article>
+<            <header>
+<             <h1>
+---
+>         <main>
+>          <article>
+>           <header>
+>            <h1>
+>             <span>
+>              Man with cerebral palsy who gave up hope of finding work models for Primark
+>             </span>
+>            </h1>
+>           </header>
+>           <div>
+>            <figure>
+>             <div>
+635,638c642,650
+<               ABC 123
+<               <span>
+<                Man with cerebral palsy who gave up hope of finding work models for Primark
+<               </span>
+---
+>               <picture>
+>                <source/>
+>                <img/>
+>               </picture>
+>              </span>
+>             </div>
+>             <figcaption>
+>              <span>
+>               Image caption,
+640,643d651
+<             </h1>
+<            </header>
+<            <div>
+<             <figure>
+645,650c653,655
+<               <span>
+<                <picture>
+<                 <source/>
+<                 <img/>
+<                </picture>
+<               </span>
+---
+>               <p>
+>                Elliot Caswell was photographed for a fashion campaign this week
+>               </p>
+652,663c657,660
+<              <figcaption>
+<               <span>
+<                Image caption,
+<               </span>
+<               <div>
+<                <p>
+<                 Elliot Caswell was photographed for a fashion campaign this week
+<                </p>
+<               </div>
+<              </figcaption>
+<             </figure>
+<            </div>
+---
+>             </figcaption>
+>            </figure>
+>           </div>
+>           <div>
+668,673c665
+<                <div>
+<                 Grace Dean
+<                </div>
+<                <div>
+<                 BBC News
+<                </div>
+---
+>                Grace Dean
+675,676d666
+<              </div>
+<              <div>
+678,683c668
+<                <div>
+<                 Rachel Price
+<                </div>
+<                <div>
+<                 BBC News
+<                </div>
+---
+>                BBC News
+687a673,680
+>              <div>
+>               <div>
+>                Rachel Price
+>               </div>
+>               <div>
+>                BBC News
+>               </div>
+>              </div>
+691,698c684,695
+<             <div>
+<              <ul>
+<               <div>
+<                <li>
+<                 <div>
+<                  Published
+<                 </div>
+<                 <div>
+---
+>            </div>
+>           </div>
+>           <div>
+>            <div>
+>             <ul>
+>              <div>
+>               <li>
+>                <div>
+>                 Published
+>                </div>
+>                <div>
+>                 <span>
+700,704c697,699
+<                   <span>
+<                    <time>
+<                     7 hours ago
+<                    </time>
+<                   </span>
+---
+>                   <time>
+>                    7 hours ago
+>                   </time>
+706,710c701,705
+<                 </div>
+<                </li>
+<               </div>
+<              </ul>
+<             </div>
+---
+>                 </span>
+>                </div>
+>               </li>
+>              </div>
+>             </ul>
+711a707,708
+>           </div>
+>           <div>
+713,736c710,731
+<             <div>
+<              <p>
+<               <b>
+<                A man with cerebral palsy who had given up hope of getting work has landed a modelling job after featuring in a BBC documentary.
+<               </b>
+<              </p>
+<              <p>
+<               Speaking to BBC Breakfast, Elliot Caswell said he had been "nervous and excited" to get the opportunity.
+<              </p>
+<              <p>
+<               BBC video journalist Rachel Price
+<               <a>
+<                spent five years filming Elliot Caswell's life
+<               </a>
+<               after meeting him on a plane in 2019.
+<              </p>
+<              <p>
+<               In the BBC iPlayer documentary
+<               <a>
+<                A Life of My Own
+<               </a>
+<               , Elliot, now 25, opened up about his struggles to find work.
+<              </p>
+<             </div>
+---
+>             <p>
+>              <b>
+>               A man with cerebral palsy who had given up hope of getting work has landed a modelling job after featuring in a BBC documentary.
+>              </b>
+>             </p>
+>             <p>
+>              Speaking to BBC Breakfast, Elliot Caswell said he had been "nervous and excited" to get the opportunity.
+>             </p>
+>             <p>
+>              BBC video journalist Rachel Price
+>              <a>
+>               spent five years filming Elliot Caswell's life
+>              </a>
+>              after meeting him on a plane in 2019.
+>             </p>
+>             <p>
+>              In the BBC iPlayer documentary
+>              <a>
+>               A Life of My Own
+>              </a>
+>              , Elliot, now 25, opened up about his struggles to find work.
+>             </p>
+737a733,734
+>           </div>
+>           <div>
+739,755c736,750
+<             <div>
+<              <p>
+<               However, a senior art director at high street retailer Primark happened to watch BBC Breakfast on the day a segment about Elliot, as well as the documentary, aired.
+<              </p>
+<              <p>
+<               The art director thought that Elliot would be a perfect model for a new clothing range and got in touch with him on social media through a modelling agency.
+<              </p>
+<              <p>
+<               On Wednesday, Elliot travelled to Manchester for the two-day shoot.
+<              </p>
+<              <p>
+<               Video journalist Rachel joined him on set.
+<              </p>
+<              <p>
+<               "Having watched Elliot for five years from being a shy young lad who looked at his mum to help him talk, it was then amazing to watch him light up the room with his smile and humour," she said.
+<              </p>
+<             </div>
+---
+>             <p>
+>              However, a senior art director at high street retailer Primark happened to watch BBC Breakfast on the day a segment about Elliot, as well as the documentary, aired.
+>             </p>
+>             <p>
+>              The art director thought that Elliot would be a perfect model for a new clothing range and got in touch with him on social media through a modelling agency.
+>             </p>
+>             <p>
+>              On Wednesday, Elliot travelled to Manchester for the two-day shoot.
+>             </p>
+>             <p>
+>              Video journalist Rachel joined him on set.
+>             </p>
+>             <p>
+>              "Having watched Elliot for five years from being a shy young lad who looked at his mum to help him talk, it was then amazing to watch him light up the room with his smile and humour," she said.
+>             </p>
+757,759c752,756
+<            <div>
+<             <figure>
+<              <div>
+---
+>           </div>
+>           <div>
+>            <figure>
+>             <div>
+>              <span>
+761c758,762
+<                <span>
+---
+>                <picture>
+>                 <source/>
+>                 <img/>
+>                </picture>
+>                <noscript>
+763,768c764
+<                  <source/>
+<                  <img/>
+<                 </picture>
+<                 <noscript>
+<                  <picture>
+<                   <source/>
+---
+>                  <source>
+770,772c766,768
+<                  </picture>
+<                 </noscript>
+<                </span>
+---
+>                  </source>
+>                 </picture>
+>                </noscript>
+773a770,771
+>              </span>
+>              <span>
+775,778c773
+<                <span>
+<                 Image source,
+<                </span>
+<                Chris Caswell
+---
+>                Image source,
+779a775,785
+>               Chris Caswell
+>              </span>
+>             </div>
+>             <figcaption>
+>              <span>
+>               Image caption,
+>              </span>
+>              <div>
+>               <p>
+>                Elliot said that he had previously found it difficult to find employment
+>               </p>
+781,792c787,790
+<              <figcaption>
+<               <span>
+<                Image caption,
+<               </span>
+<               <div>
+<                <p>
+<                 Elliot said that he had previously found it difficult to find employment
+<                </p>
+<               </div>
+<              </figcaption>
+<             </figure>
+<            </div>
+---
+>             </figcaption>
+>            </figure>
+>           </div>
+>           <div>
+794,813c792,809
+<             <div>
+<              <p>
+<               Speaking to BBC Breakfast, Elliot said: "Inclusivity is very important when it comes to the world of work."
+<              </p>
+<              <p>
+<               Chris Caswell, Elliot’s mum, said that the skills required for modelling were "perfect" for him because he could use his personality.
+<              </p>
+<              <p>
+<               She told BBC Breakfast that Elliot's "whole world has changed" since the documentary was released.
+<              </p>
+<              <p>
+<               "Elliot has some limitations, but he has so much to give. He’s very person-centred - he likes to do customer service things," she said.
+<              </p>
+<              <p>
+<               "He has some fantastic skills, but just needs a little bit of support to get a job."
+<              </p>
+<              <p>
+<               Elliot told the programme that while he was open to more modelling work in the future, he was looking for customer-facing work - and his dream job would be something connected to Newcastle United, the football team he supports.
+<              </p>
+<             </div>
+---
+>             <p>
+>              Speaking to BBC Breakfast, Elliot said: "Inclusivity is very important when it comes to the world of work."
+>             </p>
+>             <p>
+>              Chris Caswell, Elliot’s mum, said that the skills required for modelling were "perfect" for him because he could use his personality.
+>             </p>
+>             <p>
+>              She told BBC Breakfast that Elliot's "whole world has changed" since the documentary was released.
+>             </p>
+>             <p>
+>              "Elliot has some limitations, but he has so much to give. He’s very person-centred - he likes to do customer service things," she said.
+>             </p>
+>             <p>
+>              "He has some fantastic skills, but just needs a little bit of support to get a job."
+>             </p>
+>             <p>
+>              Elliot told the programme that while he was open to more modelling work in the future, he was looking for customer-facing work - and his dream job would be something connected to Newcastle United, the football team he supports.
+>             </p>
+815,817c811,815
+<            <div>
+<             <figure>
+<              <div>
+---
+>           </div>
+>           <div>
+>            <figure>
+>             <div>
+>              <span>
+819c817,821
+<                <span>
+---
+>                <picture>
+>                 <source/>
+>                 <img/>
+>                </picture>
+>                <noscript>
+821,826c823
+<                  <source/>
+<                  <img/>
+<                 </picture>
+<                 <noscript>
+<                  <picture>
+<                   <source/>
+---
+>                  <source>
+828,830c825,827
+<                  </picture>
+<                 </noscript>
+<                </span>
+---
+>                  </source>
+>                 </picture>
+>                </noscript>
+831a829,830
+>              </span>
+>              <span>
+833,836c832
+<                <span>
+<                 Image source,
+<                </span>
+<                Primark
+---
+>                Image source,
+837a834,844
+>               Primark
+>              </span>
+>             </div>
+>             <figcaption>
+>              <span>
+>               Image caption,
+>              </span>
+>              <div>
+>               <p>
+>                The clothing range Elliot is modelled for is scheduled to come out next year
+>               </p>
+839,850c846,849
+<              <figcaption>
+<               <span>
+<                Image caption,
+<               </span>
+<               <div>
+<                <p>
+<                 The clothing range Elliot is modelled for is scheduled to come out next year
+<                </p>
+<               </div>
+<              </figcaption>
+<             </figure>
+<            </div>
+---
+>             </figcaption>
+>            </figure>
+>           </div>
+>           <div>
+852,868c851,865
+<             <div>
+<              <p>
+<               Photographer Esmé Moore, who also has cerebral palsy, said it was surprising that it was Elliot's first shoot.
+<              </p>
+<              <p>
+<               "When someone has a lot of character, it’s instantly easy to photograph because that can come across on set," she said.
+<              </p>
+<              <p>
+<               Charlie Magadah-Williams, head of diversity and inclusion at Primark, said the company was looking for a variety of models for the shoot, and Elliot "really fit the bill for somebody that we were looking to work with".
+<              </p>
+<              <p>
+<               "It’s been fantastic to watch Elliot doing what he’s doing and learning his new job," she said.
+<              </p>
+<              <p>
+<               She added that as a business, Primark was "really committed to becoming more accessible", both for their employees and customers.
+<              </p>
+<             </div>
+---
+>             <p>
+>              Photographer Esmé Moore, who also has cerebral palsy, said it was surprising that it was Elliot's first shoot.
+>             </p>
+>             <p>
+>              "When someone has a lot of character, it’s instantly easy to photograph because that can come across on set," she said.
+>             </p>
+>             <p>
+>              Charlie Magadah-Williams, head of diversity and inclusion at Primark, said the company was looking for a variety of models for the shoot, and Elliot "really fit the bill for somebody that we were looking to work with".
+>             </p>
+>             <p>
+>              "It’s been fantastic to watch Elliot doing what he’s doing and learning his new job," she said.
+>             </p>
+>             <p>
+>              She added that as a business, Primark was "really committed to becoming more accessible", both for their employees and customers.
+>             </p>
+869a867,868
+>           </div>
+>           <div>
+872,905c871,873
+<              <div>
+<               <h2>
+<                Related topics
+<               </h2>
+<              </div>
+<              <div>
+<               <ul>
+<                <li>
+<                 <a>
+<                  Disability
+<                 </a>
+<                </li>
+<                <li>
+<                 <a>
+<                  Employment
+<                 </a>
+<                </li>
+<                <li>
+<                 <a>
+<                  Primark
+<                 </a>
+<                </li>
+<                <li>
+<                 <a>
+<                  Newcastle upon Tyne
+<                 </a>
+<                </li>
+<                <li>
+<                 <a>
+<                  Cerebral Palsy
+<                 </a>
+<                </li>
+<               </ul>
+<              </div>
+---
+>              <h2>
+>               Related topics
+>              </h2>
+907,914c875
+<            </div>
+<            <div>
+<             <section>
+<              <div>
+<               <h2>
+<                More on this story
+<               </h2>
+<              </div>
+---
+>             <div>
+916a878,915
+>                <a>
+>                 Disability
+>                </a>
+>               </li>
+>               <li>
+>                <a>
+>                 Employment
+>                </a>
+>               </li>
+>               <li>
+>                <a>
+>                 Primark
+>                </a>
+>               </li>
+>               <li>
+>                <a>
+>                 Newcastle upon Tyne
+>                </a>
+>               </li>
+>               <li>
+>                <a>
+>                 Cerebral Palsy
+>                </a>
+>               </li>
+>              </ul>
+>             </div>
+>            </div>
+>           </div>
+>           <div>
+>            <section>
+>             <div>
+>              <h2>
+>               More on this story
+>              </h2>
+>             </div>
+>             <ul>
+>              <li>
+>               <div>
+920,955c919,921
+<                   <div>
+<                    <a>
+<                     <span>
+<                      <p>
+<                       <span>
+<                        This young disabled man dreamed of having a job - the system had other ideas
+<                       </span>
+<                      </p>
+<                     </span>
+<                    </a>
+<                   </div>
+<                   <div>
+<                    <div>
+<                     <ul>
+<                      <div>
+<                       <li>
+<                        <div>
+<                         Published
+<                        </div>
+<                        <div>
+<                         <span>
+<                          <span>
+<                           15 October
+<                          </span>
+<                         </span>
+<                        </div>
+<                       </li>
+<                      </div>
+<                     </ul>
+<                    </div>
+<                   </div>
+<                  </div>
+<                  <div>
+<                   <div>
+<                    <div>
+<                     <span>
+---
+>                   <a>
+>                    <span>
+>                     <p>
+957,966c923
+<                       <picture>
+<                        <source/>
+<                        <img/>
+<                       </picture>
+<                       <noscript>
+<                        <picture>
+<                         <source/>
+<                         <img/>
+<                        </picture>
+<                       </noscript>
+---
+>                       This young disabled man dreamed of having a job - the system had other ideas
+968,970c925,927
+<                     </span>
+<                    </div>
+<                   </div>
+---
+>                     </p>
+>                    </span>
+>                   </a>
+972,977d928
+<                 </div>
+<                </div>
+<               </li>
+<               <li>
+<                <div>
+<                 <div>
+980,998c931,938
+<                    <a>
+<                     <span>
+<                      <p>
+<                       <span>
+<                        Many disabled young people written off - report
+<                       </span>
+<                      </p>
+<                     </span>
+<                    </a>
+<                   </div>
+<                   <div>
+<                    <div>
+<                     <ul>
+<                      <div>
+<                       <li>
+<                        <div>
+<                         Published
+<                        </div>
+<                        <div>
+---
+>                    <ul>
+>                     <div>
+>                      <li>
+>                       <div>
+>                        Published
+>                       </div>
+>                       <div>
+>                        <span>
+1000,1002c940
+<                          <span>
+<                           15 October
+<                          </span>
+---
+>                          15 October
+1004,1008c942,946
+<                        </div>
+<                       </li>
+<                      </div>
+<                     </ul>
+<                    </div>
+---
+>                        </span>
+>                       </div>
+>                      </li>
+>                     </div>
+>                    </ul>
+1010a949,950
+>                 </div>
+>                 <div>
+1013c953
+<                    <div>
+---
+>                    <span>
+1015c955,959
+<                      <span>
+---
+>                      <picture>
+>                       <source/>
+>                       <img/>
+>                      </picture>
+>                      <noscript>
+1017,1022c961
+<                        <source/>
+<                        <img/>
+<                       </picture>
+<                       <noscript>
+<                        <picture>
+<                         <source/>
+---
+>                        <source>
+1024,1026c963,965
+<                        </picture>
+<                       </noscript>
+<                      </span>
+---
+>                        </source>
+>                       </picture>
+>                      </noscript>
+1028c967
+<                    </div>
+---
+>                    </span>
+1033,1034c972,975
+<               </li>
+<               <li>
+---
+>               </div>
+>              </li>
+>              <li>
+>               <div>
+1037a979,989
+>                   <a>
+>                    <span>
+>                     <p>
+>                      <span>
+>                       Many disabled young people written off - report
+>                      </span>
+>                     </p>
+>                    </span>
+>                   </a>
+>                  </div>
+>                  <div>
+1039,1057c991,998
+<                    <a>
+<                     <span>
+<                      <p>
+<                       <span>
+<                        'People say I don't really need a wheelchair'
+<                       </span>
+<                      </p>
+<                     </span>
+<                    </a>
+<                   </div>
+<                   <div>
+<                    <div>
+<                     <ul>
+<                      <div>
+<                       <li>
+<                        <div>
+<                         Published
+<                        </div>
+<                        <div>
+---
+>                    <ul>
+>                     <div>
+>                      <li>
+>                       <div>
+>                        Published
+>                       </div>
+>                       <div>
+>                        <span>
+1059,1061c1000
+<                          <span>
+<                           6 days ago
+<                          </span>
+---
+>                          15 October
+1063,1067c1002,1006
+<                        </div>
+<                       </li>
+<                      </div>
+<                     </ul>
+<                    </div>
+---
+>                        </span>
+>                       </div>
+>                      </li>
+>                     </div>
+>                    </ul>
+1069a1009,1010
+>                 </div>
+>                 <div>
+1072c1013
+<                    <div>
+---
+>                    <span>
+1074c1015,1019
+<                      <span>
+---
+>                      <picture>
+>                       <source/>
+>                       <img/>
+>                      </picture>
+>                      <noscript>
+1076,1081c1021
+<                        <source/>
+<                        <img/>
+<                       </picture>
+<                       <noscript>
+<                        <picture>
+<                         <source/>
+---
+>                        <source>
+1083,1085c1023,1025
+<                        </picture>
+<                       </noscript>
+<                      </span>
+---
+>                        </source>
+>                       </picture>
+>                      </noscript>
+1087c1027
+<                    </div>
+---
+>                    </span>
+1092,1093c1032,1035
+<               </li>
+<               <li>
+---
+>               </div>
+>              </li>
+>              <li>
+>               <div>
+1096a1039,1049
+>                   <a>
+>                    <span>
+>                     <p>
+>                      <span>
+>                       'People say I don't really need a wheelchair'
+>                      </span>
+>                     </p>
+>                    </span>
+>                   </a>
+>                  </div>
+>                  <div>
+1098,1116c1051,1058
+<                    <a>
+<                     <span>
+<                      <p>
+<                       <span>
+<                        'Young disabled adults fighting for basic rights'
+<                       </span>
+<                      </p>
+<                     </span>
+<                    </a>
+<                   </div>
+<                   <div>
+<                    <div>
+<                     <ul>
+<                      <div>
+<                       <li>
+<                        <div>
+<                         Published
+<                        </div>
+<                        <div>
+---
+>                    <ul>
+>                     <div>
+>                      <li>
+>                       <div>
+>                        Published
+>                       </div>
+>                       <div>
+>                        <span>
+1118,1120c1060
+<                          <span>
+<                           15 October
+<                          </span>
+---
+>                          6 days ago
+1122,1126c1062,1066
+<                        </div>
+<                       </li>
+<                      </div>
+<                     </ul>
+<                    </div>
+---
+>                        </span>
+>                       </div>
+>                      </li>
+>                     </div>
+>                    </ul>
+1128a1069,1070
+>                 </div>
+>                 <div>
+1131c1073
+<                    <div>
+---
+>                    <span>
+1133c1075,1079
+<                      <span>
+---
+>                      <picture>
+>                       <source/>
+>                       <img/>
+>                      </picture>
+>                      <noscript>
+1135,1140c1081
+<                        <source/>
+<                        <img/>
+<                       </picture>
+<                       <noscript>
+<                        <picture>
+<                         <source/>
+---
+>                        <source>
+1142,1144c1083,1085
+<                        </picture>
+<                       </noscript>
+<                      </span>
+---
+>                        </source>
+>                       </picture>
+>                      </noscript>
+1146c1087
+<                    </div>
+---
+>                    </span>
+1151,1165c1092,1093
+<               </li>
+<              </ul>
+<             </section>
+<            </div>
+<           </article>
+<          </main>
+<         </div>
+<         <div>
+<          <aside>
+<           <div>
+<            <h2>
+<             Top stories
+<            </h2>
+<            <div>
+<             <ul>
+---
+>               </div>
+>              </li>
+1175c1103
+<                       Kemi Badenoch promises change after historic Tory leadership win
+---
+>                       'Young disabled adults fighting for basic rights'
+1192c1120
+<                          1 hour ago
+---
+>                          15 October
+1201a1130,1150
+>                 <div>
+>                  <div>
+>                   <div>
+>                    <span>
+>                     <span>
+>                      <picture>
+>                       <source/>
+>                       <img/>
+>                      </picture>
+>                      <noscript>
+>                       <picture>
+>                        <source>
+>                         <img/>
+>                        </source>
+>                       </picture>
+>                      </noscript>
+>                     </span>
+>                    </span>
+>                   </div>
+>                  </div>
+>                 </div>
+1205c1154,1208
+<              <li>
+---
+>             </ul>
+>            </section>
+>           </div>
+>          </article>
+>         </main>
+>        </div>
+>        <div>
+>         <aside>
+>          <div>
+>           <h2>
+>            Top stories
+>           </h2>
+>           <div>
+>            <ul>
+>             <li>
+>              <div>
+>               <div>
+>                <div>
+>                 <div>
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Kemi Badenoch promises change after historic Tory leadership win
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                 </div>
+>                 <div>
+>                  <div>
+>                   <ul>
+>                    <div>
+>                     <li>
+>                      <div>
+>                       Published
+>                      </div>
+>                      <div>
+>                       <span>
+>                        <span>
+>                         1 hour ago
+>                        </span>
+>                       </span>
+>                      </div>
+>                     </li>
+>                    </div>
+>                   </ul>
+>                  </div>
+>                 </div>
+>                </div>
+>               </div>
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1208a1212,1222
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      'A classic left-right era': Labour's big Budget and Badenoch's win reset politics
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                 </div>
+>                 <div>
+1210,1228c1224,1231
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       'A classic left-right era': Labour's big Budget and Badenoch's win reset politics
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+<                  <div>
+<                   <div>
+<                    <ul>
+<                     <div>
+<                      <li>
+<                       <div>
+<                        Published
+<                       </div>
+<                       <div>
+---
+>                   <ul>
+>                    <div>
+>                     <li>
+>                      <div>
+>                       Published
+>                      </div>
+>                      <div>
+>                       <span>
+1230,1232c1233
+<                         <span>
+<                          1 hour ago
+<                         </span>
+---
+>                         1 hour ago
+1234,1238c1235,1239
+<                       </div>
+<                      </li>
+<                     </div>
+<                    </ul>
+<                   </div>
+---
+>                       </span>
+>                      </div>
+>                     </li>
+>                    </div>
+>                   </ul>
+1243,1244c1244,1247
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1248,1249c1251,1252
+<                  <div>
+<                   <a>
+---
+>                  <a>
+>                   <span>
+1253,1264c1256,1261
+<                       <span>
+<                        <svg>
+<                         <path>
+<                         </path>
+<                         <circle>
+<                         </circle>
+<                        </svg>
+<                       </span>
+<                       Live
+<                       <span>
+<                        .
+<                       </span>
+---
+>                       <svg>
+>                        <path>
+>                        </path>
+>                        <circle>
+>                        </circle>
+>                       </svg>
+1266,1267c1263
+<                     </span>
+<                     <p>
+---
+>                      Live
+1269c1265
+<                       Trump and Harris target crucial southern states in frenzied last days of race
+---
+>                       .
+1271c1267
+<                     </p>
+---
+>                     </span>
+1273,1274c1269,1275
+<                   </a>
+<                  </div>
+---
+>                    <p>
+>                     <span>
+>                      Trump and Harris target crucial southern states in frenzied last days of race
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1278,1280c1279,1281
+<              </li>
+<             </ul>
+<            </div>
+---
+>              </div>
+>             </li>
+>            </ul>
+1282,1283c1283,1289
+<          </aside>
+<          <aside>
+---
+>          </div>
+>         </aside>
+>         <aside>
+>          <div>
+>           <h2>
+>            More to explore
+>           </h2>
+1285,1290c1291,1293
+<            <h2>
+<             More to explore
+<            </h2>
+<            <div>
+<             <ul>
+<              <li>
+---
+>            <ul>
+>             <li>
+>              <div>
+1294,1304c1297,1305
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       Who is new Tory leader Kemi Badenoch and what does she stand for?
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Who is new Tory leader Kemi Badenoch and what does she stand for?
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1305a1307,1308
+>                </div>
+>                <div>
+1308c1311
+<                   <div>
+---
+>                   <span>
+1310c1313,1314
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1312,1315c1316
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1317c1318
+<                   </div>
+---
+>                   </span>
+1322,1323c1323,1326
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1327,1337c1330,1338
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       Man with cerebral palsy who gave up hope of finding work models for Primark
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Man with cerebral palsy who gave up hope of finding work models for Primark
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1338a1340,1341
+>                </div>
+>                <div>
+1341c1344
+<                   <div>
+---
+>                   <span>
+1343c1346,1347
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1345,1348c1349
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1350c1351
+<                   </div>
+---
+>                   </span>
+1355,1356c1356,1359
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1360,1370c1363,1371
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       How Donald Trump came back from the political abyss
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      How Donald Trump came back from the political abyss
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1371a1373,1374
+>                </div>
+>                <div>
+1374c1377
+<                   <div>
+---
+>                   <span>
+1376c1379,1380
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1378,1381c1382
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1383c1384
+<                   </div>
+---
+>                   </span>
+1388,1389c1389,1392
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1393,1403c1396,1404
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       The moment I decided who to vote for
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      The moment I decided who to vote for
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1404a1406,1407
+>                </div>
+>                <div>
+1407c1410
+<                   <div>
+---
+>                   <span>
+1409c1412,1413
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1411,1414c1415
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1416c1417
+<                   </div>
+---
+>                   </span>
+1421,1422c1422,1425
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1426,1441c1429,1431
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       'I thought it was normal for people to feel this stressed'
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+<                 </div>
+<                 <div>
+<                  <div>
+<                   <div>
+<                    <span>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+1443,1446c1433
+<                      <img/>
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+---
+>                      'I thought it was normal for people to feel this stressed'
+1448,1450c1435,1437
+<                    </span>
+<                   </div>
+<                  </div>
+---
+>                    </p>
+>                   </span>
+>                  </a>
+1453,1456d1439
+<               </div>
+<              </li>
+<              <li>
+<               <div>
+1460c1443
+<                   <a>
+---
+>                   <span>
+1462,1466c1445,1448
+<                     <p>
+<                      <span>
+<                       Before and after images show Spain floods devastation
+<                      </span>
+<                     </p>
+---
+>                     <img/>
+>                     <noscript>
+>                      <img/>
+>                     </noscript>
+1468c1450
+<                   </a>
+---
+>                   </span>
+1470a1453,1473
+>                </div>
+>               </div>
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+>               <div>
+>                <div>
+>                 <div>
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Before and after images show Spain floods devastation
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                 </div>
+>                </div>
+>                <div>
+1473c1476
+<                   <div>
+---
+>                   <span>
+1475c1478,1479
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1477,1480c1481
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1482c1483
+<                   </div>
+---
+>                   </span>
+1487,1488c1488,1491
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1492,1502c1495,1503
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       Life of Janey Godley, Glaswegian pub landlady who became street-fighter of comedy
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Life of Janey Godley, Glaswegian pub landlady who became street-fighter of comedy
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1503a1505,1506
+>                </div>
+>                <div>
+1506c1509
+<                   <div>
+---
+>                   <span>
+1508c1511,1512
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1510,1513c1514
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1515c1516
+<                   </div>
+---
+>                   </span>
+1520,1521c1521,1524
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1525,1535c1528,1536
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       The wildlife spotters, anglers and day trippers on coastal piers
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      The wildlife spotters, anglers and day trippers on coastal piers
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1536a1538,1539
+>                </div>
+>                <div>
+1539c1542
+<                   <div>
+---
+>                   <span>
+1541c1544,1545
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1543,1546c1547
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1548c1549
+<                   </div>
+---
+>                   </span>
+1553,1554c1554,1557
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1558,1568c1561,1569
+<                  <div>
+<                   <a>
+<                    <span>
+<                     <p>
+<                      <span>
+<                       Could election change protection US offers Europe?
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                  </div>
+---
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Could election change protection US offers Europe?
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+1569a1571,1572
+>                </div>
+>                <div>
+1572c1575
+<                   <div>
+---
+>                   <span>
+1574c1577,1578
+<                     <span>
+---
+>                     <img/>
+>                     <noscript>
+1576,1579c1580
+<                      <noscript>
+<                       <img/>
+<                      </noscript>
+<                     </span>
+---
+>                     </noscript>
+1581c1582
+<                   </div>
+---
+>                   </span>
+1586,1588c1587,1589
+<              </li>
+<             </ul>
+<            </div>
+---
+>              </div>
+>             </li>
+>            </ul>
+1590,1591c1591,1597
+<          </aside>
+<          <aside>
+---
+>          </div>
+>         </aside>
+>         <aside>
+>          <div>
+>           <h2>
+>            Elsewhere on the BBC
+>           </h2>
+1593,1598c1599,1601
+<            <h2>
+<             Elsewhere on the BBC
+<            </h2>
+<            <div>
+<             <ul>
+<              <li>
+---
+>            <ul>
+>             <li>
+>              <div>
+1601a1605,1618
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      It’s an S Club party at the Snatch Game!
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                  <p>
+>                   Who can serve the most charisma and star power?
+>                  </p>
+>                 </div>
+>                 <div>
+1603,1605c1620,1625
+<                   <a>
+<                    <span>
+<                     <p>
+---
+>                   <ul>
+>                    <li>
+>                     <div>
+>                      Attribution
+>                     </div>
+>                     <div>
+1607,1625c1627,1628
+<                       It’s an S Club party at the Snatch Game!
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                   <p>
+<                    Who can serve the most charisma and star power?
+<                   </p>
+<                  </div>
+<                  <div>
+<                   <div>
+<                    <ul>
+<                     <li>
+<                      <div>
+<                       Attribution
+<                      </div>
+<                      <div>
+<                       <span>
+<                        <a>
+---
+>                       <a>
+>                        <span>
+1627,1628c1630,1633
+<                          <span>
+<                           <svg>
+---
+>                          <svg>
+>                           <g>
+>                            <path>
+>                            </path>
+1632,1637c1637,1638
+<                             <g>
+<                              <path>
+<                              </path>
+<                              <path>
+<                              </path>
+<                             </g>
+---
+>                             <path>
+>                             </path>
+1639,1641c1640,1641
+<                           </svg>
+<                          </span>
+<                          iPlayer
+---
+>                           </g>
+>                          </svg>
+1643,1648c1643,1649
+<                        </a>
+<                       </span>
+<                      </div>
+<                     </li>
+<                    </ul>
+<                   </div>
+---
+>                         iPlayer
+>                        </span>
+>                       </a>
+>                      </span>
+>                     </div>
+>                    </li>
+>                   </ul>
+1650a1652,1653
+>                </div>
+>                <div>
+1653c1656
+<                   <div>
+---
+>                   <span>
+1655,1659c1658,1660
+<                     <span>
+<                      <img/>
+<                      <noscript>
+<                      </noscript>
+<                     </span>
+---
+>                     <img/>
+>                     <noscript>
+>                     </noscript>
+1661c1662
+<                   </div>
+---
+>                   </span>
+1666,1667c1667,1670
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1670a1674,1687
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      The tiger attack that brought a magic show to a tragic end
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                  <p>
+>                   Magicians Roy Horn and Siegfried Fischbacher wowed audiences with their death-defying tricks
+>                  </p>
+>                 </div>
+>                 <div>
+1672,1674c1689,1694
+<                   <a>
+<                    <span>
+<                     <p>
+---
+>                   <ul>
+>                    <li>
+>                     <div>
+>                      Attribution
+>                     </div>
+>                     <div>
+1676,1694c1696,1697
+<                       The tiger attack that brought a magic show to a tragic end
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                   <p>
+<                    Magicians Roy Horn and Siegfried Fischbacher wowed audiences with their death-defying tricks
+<                   </p>
+<                  </div>
+<                  <div>
+<                   <div>
+<                    <ul>
+<                     <li>
+<                      <div>
+<                       Attribution
+<                      </div>
+<                      <div>
+<                       <span>
+<                        <a>
+---
+>                       <a>
+>                        <span>
+1696,1708c1699,1708
+<                          <span>
+<                           <svg>
+<                            <g>
+<                             <path>
+<                             </path>
+<                             <path>
+<                             </path>
+<                             <path>
+<                             </path>
+<                            </g>
+<                           </svg>
+<                          </span>
+<                          Sounds
+---
+>                          <svg>
+>                           <g>
+>                            <path>
+>                            </path>
+>                            <path>
+>                            </path>
+>                            <path>
+>                            </path>
+>                           </g>
+>                          </svg>
+1710,1715c1710,1716
+<                        </a>
+<                       </span>
+<                      </div>
+<                     </li>
+<                    </ul>
+<                   </div>
+---
+>                         Sounds
+>                        </span>
+>                       </a>
+>                      </span>
+>                     </div>
+>                    </li>
+>                   </ul>
+1717a1719,1720
+>                </div>
+>                <div>
+1720c1723
+<                   <div>
+---
+>                   <span>
+1722,1726c1725,1727
+<                     <span>
+<                      <img/>
+<                      <noscript>
+<                      </noscript>
+<                     </span>
+---
+>                     <img/>
+>                     <noscript>
+>                     </noscript>
+1728c1729
+<                   </div>
+---
+>                   </span>
+1732,1734c1733,1737
+<               </div>
+<              </li>
+<              <li>
+---
+>               </div>
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1737a1741,1754
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      Award-winning comedy by Sophie Willan
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                  <p>
+>                   Alma is back! If she can’t be normal, she’ll at least be fabulous
+>                  </p>
+>                 </div>
+>                 <div>
+1739,1741c1756,1761
+<                   <a>
+<                    <span>
+<                     <p>
+---
+>                   <ul>
+>                    <li>
+>                     <div>
+>                      Attribution
+>                     </div>
+>                     <div>
+1743,1761c1763,1764
+<                       Award-winning comedy by Sophie Willan
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                   <p>
+<                    Alma is back! If she can’t be normal, she’ll at least be fabulous
+<                   </p>
+<                  </div>
+<                  <div>
+<                   <div>
+<                    <ul>
+<                     <li>
+<                      <div>
+<                       Attribution
+<                      </div>
+<                      <div>
+<                       <span>
+<                        <a>
+---
+>                       <a>
+>                        <span>
+1763,1764c1766,1769
+<                          <span>
+<                           <svg>
+---
+>                          <svg>
+>                           <g>
+>                            <path>
+>                            </path>
+1768,1773c1773,1774
+<                             <g>
+<                              <path>
+<                              </path>
+<                              <path>
+<                              </path>
+<                             </g>
+---
+>                             <path>
+>                             </path>
+1775,1777c1776,1777
+<                           </svg>
+<                          </span>
+<                          iPlayer
+---
+>                           </g>
+>                          </svg>
+1779,1784c1779,1785
+<                        </a>
+<                       </span>
+<                      </div>
+<                     </li>
+<                    </ul>
+<                   </div>
+---
+>                         iPlayer
+>                        </span>
+>                       </a>
+>                      </span>
+>                     </div>
+>                    </li>
+>                   </ul>
+1786a1788,1789
+>                </div>
+>                <div>
+1789c1792
+<                   <div>
+---
+>                   <span>
+1791,1795c1794,1796
+<                     <span>
+<                      <img/>
+<                      <noscript>
+<                      </noscript>
+<                     </span>
+---
+>                     <img/>
+>                     <noscript>
+>                     </noscript>
+1797c1798
+<                   </div>
+---
+>                   </span>
+1802,1803c1803,1806
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1806a1810,1823
+>                  <a>
+>                   <span>
+>                    <p>
+>                     <span>
+>                      From struggling immigrant to recognised scientist
+>                     </span>
+>                    </p>
+>                   </span>
+>                  </a>
+>                  <p>
+>                   The story of Marie Curie, an extraordinary woman who turned the scientific world on its head
+>                  </p>
+>                 </div>
+>                 <div>
+1808,1810c1825,1830
+<                   <a>
+<                    <span>
+<                     <p>
+---
+>                   <ul>
+>                    <li>
+>                     <div>
+>                      Attribution
+>                     </div>
+>                     <div>
+1812,1830c1832,1833
+<                       From struggling immigrant to recognised scientist
+<                      </span>
+<                     </p>
+<                    </span>
+<                   </a>
+<                   <p>
+<                    The story of Marie Curie, an extraordinary woman who turned the scientific world on its head
+<                   </p>
+<                  </div>
+<                  <div>
+<                   <div>
+<                    <ul>
+<                     <li>
+<                      <div>
+<                       Attribution
+<                      </div>
+<                      <div>
+<                       <span>
+<                        <a>
+---
+>                       <a>
+>                        <span>
+1832,1844c1835,1844
+<                          <span>
+<                           <svg>
+<                            <g>
+<                             <path>
+<                             </path>
+<                             <path>
+<                             </path>
+<                             <path>
+<                             </path>
+<                            </g>
+<                           </svg>
+<                          </span>
+<                          Sounds
+---
+>                          <svg>
+>                           <g>
+>                            <path>
+>                            </path>
+>                            <path>
+>                            </path>
+>                            <path>
+>                            </path>
+>                           </g>
+>                          </svg>
+1846,1851c1846,1852
+<                        </a>
+<                       </span>
+<                      </div>
+<                     </li>
+<                    </ul>
+<                   </div>
+---
+>                         Sounds
+>                        </span>
+>                       </a>
+>                      </span>
+>                     </div>
+>                    </li>
+>                   </ul>
+1853a1855,1856
+>                </div>
+>                <div>
+1856c1859
+<                   <div>
+---
+>                   <span>
+1858,1862c1861,1863
+<                     <span>
+<                      <img/>
+<                      <noscript>
+<                      </noscript>
+<                     </span>
+---
+>                     <img/>
+>                     <noscript>
+>                     </noscript>
+1864c1865
+<                   </div>
+---
+>                   </span>
+1869,1881c1870,1882
+<              </li>
+<             </ul>
+<             <div>
+<              <a>
+<               <span>
+<                <svg>
+<                 <path>
+<                 </path>
+<                </svg>
+<               </span>
+<               How is the BBC personalised for me?
+<              </a>
+<             </div>
+---
+>              </div>
+>             </li>
+>            </ul>
+>            <div>
+>             <a>
+>              <span>
+>               <svg>
+>                <path>
+>                </path>
+>               </svg>
+>              </span>
+>              How is the BBC personalised for me?
+>             </a>
+1884,1885c1885,1891
+<          </aside>
+<          <aside>
+---
+>          </div>
+>         </aside>
+>         <aside>
+>          <div>
+>           <h2>
+>            Most read
+>           </h2>
+1887,1892c1893,1895
+<            <h2>
+<             Most read
+<            </h2>
+<            <div>
+<             <ol>
+<              <li>
+---
+>            <ol>
+>             <li>
+>              <div>
+1893a1897,1899
+>                <span>
+>                 1
+>                </span>
+1895,1902c1901,1903
+<                 <span>
+<                  1
+<                 </span>
+<                 <div>
+<                  <a>
+<                   Badenoch promises change after historic Tory leadership win
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  Badenoch promises change after historic Tory leadership win
+>                 </a>
+1905,1906c1906,1909
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1907a1911,1913
+>                <span>
+>                 2
+>                </span>
+1909,1916c1915,1917
+<                 <span>
+<                  2
+<                 </span>
+<                 <div>
+<                  <a>
+<                   Prince Andrew's funding cut off by King, says book
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  Prince Andrew's funding cut off by King, says book
+>                 </a>
+1919,1920c1920,1923
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1921a1925,1927
+>                <span>
+>                 3
+>                </span>
+1923,1930c1929,1931
+<                 <span>
+<                  3
+<                 </span>
+<                 <div>
+<                  <a>
+<                   Life of Janey Godley, Glaswegian pub landlady who became street-fighter of comedy
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  Life of Janey Godley, Glaswegian pub landlady who became street-fighter of comedy
+>                 </a>
+1933,1934c1934,1937
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1935a1939,1941
+>                <span>
+>                 4
+>                </span>
+1937,1944c1943,1945
+<                 <span>
+<                  4
+<                 </span>
+<                 <div>
+<                  <a>
+<                   Man with cerebral palsy who gave up hope of finding work models for Primark
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  Man with cerebral palsy who gave up hope of finding work models for Primark
+>                 </a>
+1947,1948c1948,1951
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1949a1953,1955
+>                <span>
+>                 5
+>                </span>
+1951,1958c1957,1959
+<                 <span>
+<                  5
+<                 </span>
+<                 <div>
+<                  <a>
+<                   Spain floods: Before and after images show devastation
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  Spain floods: Before and after images show devastation
+>                 </a>
+1961,1962c1962,1965
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1963a1967,1969
+>                <span>
+>                 6
+>                </span>
+1965,1972c1971,1973
+<                 <span>
+<                  6
+<                 </span>
+<                 <div>
+<                  <a>
+<                   World's largest crocodile in captivity dies
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  World's largest crocodile in captivity dies
+>                 </a>
+1975,1976c1976,1979
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1977a1981,1983
+>                <span>
+>                 7
+>                </span>
+1979,1986c1985,1987
+<                 <span>
+<                  7
+<                 </span>
+<                 <div>
+<                  <a>
+<                   'A classic left-right era': Labour's big Budget and Badenoch's win reset politics
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  'A classic left-right era': Labour's big Budget and Badenoch's win reset politics
+>                 </a>
+1989,1990c1990,1993
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+1991a1995,1997
+>                <span>
+>                 8
+>                </span>
+1993,2000c1999,2001
+<                 <span>
+<                  8
+<                 </span>
+<                 <div>
+<                  <a>
+<                   US election polls: Who is ahead - Harris or Trump?
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  US election polls: Who is ahead - Harris or Trump?
+>                 </a>
+2003,2004c2004,2007
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+2005a2009,2011
+>                <span>
+>                 9
+>                </span>
+2007,2014c2013,2015
+<                 <span>
+<                  9
+<                 </span>
+<                 <div>
+<                  <a>
+<                   How Donald Trump came back from the political abyss
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  How Donald Trump came back from the political abyss
+>                 </a>
+2017,2018c2018,2021
+<              </li>
+<              <li>
+---
+>              </div>
+>             </li>
+>             <li>
+>              <div>
+2019a2023,2025
+>                <span>
+>                 10
+>                </span>
+2021,2028c2027,2029
+<                 <span>
+<                  10
+<                 </span>
+<                 <div>
+<                  <a>
+<                   Kemi Badenoch: Who is new Tory leader and what does she stand for?
+<                  </a>
+<                 </div>
+---
+>                 <a>
+>                  Kemi Badenoch: Who is new Tory leader and what does she stand for?
+>                 </a>
+2031,2033c2032,2034
+<              </li>
+<             </ol>
+<            </div>
+---
+>              </div>
+>             </li>
+>            </ol>
+2035,2036c2036,2037
+<          </aside>
+<         </div>
+---
+>          </div>
+>         </aside>
+2039a2041,2042
+>     </div>
+>     <div>
+2041,2043c2044,2046
+<       <div>
+<        <footer>
+<         <nav>
+---
+>       <footer>
+>        <nav>
+>         <div>
+2045,2095c2048,2050
+<           <div>
+<            <h2>
+<             BBC News Services
+<            </h2>
+<           </div>
+<           <ul>
+<            <li>
+<             <a>
+<              <span>
+<               <svg>
+<                <path>
+<                </path>
+<               </svg>
+<              </span>
+<              On your mobile
+<             </a>
+<            </li>
+<            <li>
+<             <a>
+<              <span>
+<               <svg>
+<                <path>
+<                </path>
+<               </svg>
+<              </span>
+<              On smart speakers
+<             </a>
+<            </li>
+<            <li>
+<             <a>
+<              <span>
+<               <svg>
+<                <path>
+<                </path>
+<               </svg>
+<              </span>
+<              Get news alerts
+<             </a>
+<            </li>
+<            <li>
+<             <a>
+<              <span>
+<               <svg>
+<                <path>
+<                </path>
+<               </svg>
+<              </span>
+<              Contact BBC News
+<             </a>
+<            </li>
+<           </ul>
+---
+>           <h2>
+>            BBC News Services
+>           </h2>
+2097c2052,2100
+<         </nav>
+---
+>          <ul>
+>           <li>
+>            <a>
+>             <span>
+>              <svg>
+>               <path>
+>               </path>
+>              </svg>
+>             </span>
+>             On your mobile
+>            </a>
+>           </li>
+>           <li>
+>            <a>
+>             <span>
+>              <svg>
+>               <path>
+>               </path>
+>              </svg>
+>             </span>
+>             On smart speakers
+>            </a>
+>           </li>
+>           <li>
+>            <a>
+>             <span>
+>              <svg>
+>               <path>
+>               </path>
+>              </svg>
+>             </span>
+>             Get news alerts
+>            </a>
+>           </li>
+>           <li>
+>            <a>
+>             <span>
+>              <svg>
+>               <path>
+>               </path>
+>              </svg>
+>             </span>
+>             Contact BBC News
+>            </a>
+>           </li>
+>          </ul>
+>         </div>
+>        </nav>
+>        <div>
+2100,2104c2103,2107
+<           <div>
+<            <h2>
+<             Best of the BBC
+<            </h2>
+<           </div>
+---
+>           <h2>
+>            Best of the BBC
+>           </h2>
+>          </div>
+>          <div>
+2109a2113,2123
+>                <a>
+>                 <span>
+>                  <p>
+>                   <span>
+>                    Sailors, smugglers and $100m of cocaine
+>                   </span>
+>                  </p>
+>                 </span>
+>                </a>
+>               </div>
+>               <div>
+2111,2113c2125,2130
+<                 <a>
+<                  <span>
+<                   <p>
+---
+>                 <ul>
+>                  <li>
+>                   <div>
+>                    Attribution
+>                   </div>
+>                   <div>
+2115,2128d2131
+<                     Sailors, smugglers and $100m of cocaine
+<                    </span>
+<                   </p>
+<                  </span>
+<                 </a>
+<                </div>
+<                <div>
+<                 <div>
+<                  <ul>
+<                   <li>
+<                    <div>
+<                     Attribution
+<                    </div>
+<                    <div>
+2131,2143c2134,2143
+<                       <span>
+<                        <svg>
+<                         <g>
+<                          <path>
+<                          </path>
+<                          <path>
+<                          </path>
+<                          <path>
+<                          </path>
+<                         </g>
+<                        </svg>
+<                       </span>
+<                       Sounds
+---
+>                       <svg>
+>                        <g>
+>                         <path>
+>                         </path>
+>                         <path>
+>                         </path>
+>                         <path>
+>                         </path>
+>                        </g>
+>                       </svg>
+2144a2145
+>                      Sounds
+2146,2149c2147,2150
+<                    </div>
+<                   </li>
+<                  </ul>
+<                 </div>
+---
+>                    </span>
+>                   </div>
+>                  </li>
+>                 </ul>
+2151a2153,2154
+>              </div>
+>              <div>
+2154c2157
+<                 <div>
+---
+>                 <span>
+2156c2159,2160
+<                   <span>
+---
+>                   <img/>
+>                   <noscript>
+2158,2161c2162
+<                    <noscript>
+<                     <img/>
+<                    </noscript>
+<                   </span>
+---
+>                   </noscript>
+2163c2164
+<                 </div>
+---
+>                 </span>
+2168a2170,2171
+>           </div>
+>           <div>
+2172a2176,2186
+>                <a>
+>                 <span>
+>                  <p>
+>                   <span>
+>                    The hunt for the next superstar chef
+>                   </span>
+>                  </p>
+>                 </span>
+>                </a>
+>               </div>
+>               <div>
+2174,2176c2188,2193
+<                 <a>
+<                  <span>
+<                   <p>
+---
+>                 <ul>
+>                  <li>
+>                   <div>
+>                    Attribution
+>                   </div>
+>                   <div>
+2178,2191d2194
+<                     The hunt for the next superstar chef
+<                    </span>
+<                   </p>
+<                  </span>
+<                 </a>
+<                </div>
+<                <div>
+<                 <div>
+<                  <ul>
+<                   <li>
+<                    <div>
+<                     Attribution
+<                    </div>
+<                    <div>
+2194,2195c2197,2200
+<                       <span>
+<                        <svg>
+---
+>                       <svg>
+>                        <g>
+>                         <path>
+>                         </path>
+2199,2204c2204,2205
+<                          <g>
+<                           <path>
+<                           </path>
+<                           <path>
+<                           </path>
+<                          </g>
+---
+>                          <path>
+>                          </path>
+2206,2208c2207,2208
+<                        </svg>
+<                       </span>
+<                       iPlayer
+---
+>                        </g>
+>                       </svg>
+2209a2210
+>                      iPlayer
+2211,2214c2212,2215
+<                    </div>
+<                   </li>
+<                  </ul>
+<                 </div>
+---
+>                    </span>
+>                   </div>
+>                  </li>
+>                 </ul>
+2216a2218,2219
+>              </div>
+>              <div>
+2219c2222
+<                 <div>
+---
+>                 <span>
+2221c2224,2225
+<                   <span>
+---
+>                   <img/>
+>                   <noscript>
+2223,2226c2227
+<                    <noscript>
+<                     <img/>
+<                    </noscript>
+<                   </span>
+---
+>                   </noscript>
+2228c2229
+<                 </div>
+---
+>                 </span>
+2233a2235,2236
+>           </div>
+>           <div>
+2237a2241,2251
+>                <a>
+>                 <span>
+>                  <p>
+>                   <span>
+>                    Weird and wonderful true tales
+>                   </span>
+>                  </p>
+>                 </span>
+>                </a>
+>               </div>
+>               <div>
+2239,2241c2253,2258
+<                 <a>
+<                  <span>
+<                   <p>
+---
+>                 <ul>
+>                  <li>
+>                   <div>
+>                    Attribution
+>                   </div>
+>                   <div>
+2243,2256d2259
+<                     Weird and wonderful true tales
+<                    </span>
+<                   </p>
+<                  </span>
+<                 </a>
+<                </div>
+<                <div>
+<                 <div>
+<                  <ul>
+<                   <li>
+<                    <div>
+<                     Attribution
+<                    </div>
+<                    <div>
+2259,2271c2262,2271
+<                       <span>
+<                        <svg>
+<                         <g>
+<                          <path>
+<                          </path>
+<                          <path>
+<                          </path>
+<                          <path>
+<                          </path>
+<                         </g>
+<                        </svg>
+<                       </span>
+<                       Sounds
+---
+>                       <svg>
+>                        <g>
+>                         <path>
+>                         </path>
+>                         <path>
+>                         </path>
+>                         <path>
+>                         </path>
+>                        </g>
+>                       </svg>
+2272a2273
+>                      Sounds
+2274,2277c2275,2278
+<                    </div>
+<                   </li>
+<                  </ul>
+<                 </div>
+---
+>                    </span>
+>                   </div>
+>                  </li>
+>                 </ul>
+2279a2281,2282
+>              </div>
+>              <div>
+2282c2285
+<                 <div>
+---
+>                 <span>
+2284c2287,2288
+<                   <span>
+---
+>                   <img/>
+>                   <noscript>
+2286,2289c2290
+<                    <noscript>
+<                     <img/>
+<                    </noscript>
+<                   </span>
+---
+>                   </noscript>
+2291c2292
+<                 </div>
+---
+>                 </span>
+2296a2298,2299
+>           </div>
+>           <div>
+2300a2304,2314
+>                <a>
+>                 <span>
+>                  <p>
+>                   <span>
+>                    Ten soldiers share their untold stories
+>                   </span>
+>                  </p>
+>                 </span>
+>                </a>
+>               </div>
+>               <div>
+2302,2304c2316,2321
+<                 <a>
+<                  <span>
+<                   <p>
+---
+>                 <ul>
+>                  <li>
+>                   <div>
+>                    Attribution
+>                   </div>
+>                   <div>
+2306,2319d2322
+<                     Ten soldiers share their untold stories
+<                    </span>
+<                   </p>
+<                  </span>
+<                 </a>
+<                </div>
+<                <div>
+<                 <div>
+<                  <ul>
+<                   <li>
+<                    <div>
+<                     Attribution
+<                    </div>
+<                    <div>
+2322,2323c2325,2328
+<                       <span>
+<                        <svg>
+---
+>                       <svg>
+>                        <g>
+>                         <path>
+>                         </path>
+2327,2332c2332,2333
+<                          <g>
+<                           <path>
+<                           </path>
+<                           <path>
+<                           </path>
+<                          </g>
+---
+>                          <path>
+>                          </path>
+2334,2336c2335,2336
+<                        </svg>
+<                       </span>
+<                       iPlayer
+---
+>                        </g>
+>                       </svg>
+2337a2338
+>                      iPlayer
+2339,2342c2340,2343
+<                    </div>
+<                   </li>
+<                  </ul>
+<                 </div>
+---
+>                    </span>
+>                   </div>
+>                  </li>
+>                 </ul>
+2344a2346,2347
+>              </div>
+>              <div>
+2347c2350
+<                 <div>
+---
+>                 <span>
+2349c2352,2353
+<                   <span>
+---
+>                   <img/>
+>                   <noscript>
+2351,2354c2355
+<                    <noscript>
+<                     <img/>
+<                    </noscript>
+<                   </span>
+---
+>                   </noscript>
+2356c2357
+<                 </div>
+---
+>                 </span>
+2364a2366,2367
+>        </div>
+>        <div>
+2366a2370,2441
+>           <ul>
+>            <li>
+>             <a>
+>              Home
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              News
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Sport
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Weather
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              iPlayer
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Sounds
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              CBBC
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              CBeebies
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Food
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Bitesize
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Arts
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Taster
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Local News
+>             </a>
+>            </li>
+>            <li>
+>             <a>
+>              Three
+>             </a>
+>            </li>
+>           </ul>
+2368,2439d2442
+<            <ul>
+<             <li>
+<              <a>
+<               Home
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               News
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Sport
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Weather
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               iPlayer
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Sounds
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               CBBC
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               CBeebies
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Food
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Bitesize
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Arts
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Taster
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Local News
+<              </a>
+<             </li>
+<             <li>
+<              <a>
+<               Three
+<              </a>
+<             </li>
+<            </ul>
+2441,2500c2444,2495
+<             <div>
+<              <ul>
+<               <li>
+<                <a>
+<                 Terms of Use
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 About the BBC
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Privacy Policy
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Cookies
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Accessibility Help
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Parental Guidance
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Contact the BBC
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Make an editorial complaint
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Get Personalised Newsletters
+<                </a>
+<               </li>
+<               <li>
+<                <a>
+<                 Why you can trust the BBC
+<                </a>
+<               </li>
+<              </ul>
+<             </div>
+<             <p>
+<              © 2024 BBC. The BBC is not responsible for the content of external sites.
+<              <a>
+<               Read about our approach to external linking.
+<              </a>
+<             </p>
+---
+>             <ul>
+>              <li>
+>               <a>
+>                Terms of Use
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                About the BBC
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Privacy Policy
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Cookies
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Accessibility Help
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Parental Guidance
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Contact the BBC
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Make an editorial complaint
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Get Personalised Newsletters
+>               </a>
+>              </li>
+>              <li>
+>               <a>
+>                Why you can trust the BBC
+>               </a>
+>              </li>
+>             </ul>
+2501a2497,2502
+>            <p>
+>             © 2024 BBC. The BBC is not responsible for the content of external sites.
+>             <a>
+>              Read about our approach to external linking.
+>             </a>
+>            </p>
+2505,2506c2506,2507
+<        </footer>
+<       </div>
+---
+>        </div>
+>       </footer>
+2511a2513,2618
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
+>  <script>
+>  </script>
